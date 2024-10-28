@@ -46,3 +46,8 @@ The Google Gemini Clone functions as a sophisticated AI assistant that users can
 6. **React Native Skia:** High-performance 2D graphics, especially for loading and animating the Google Gemini interface.
 7. **React Reanimated:** Adds smooth animation capabilities to UI components.
 8. **Lucide Icons:** Provides a vast selection of icons for ease of integration.
+
+![image_alt](https://github.com/Ghauoor/google-gemini-clone-app/blob/899088bcbe8485ff0b5a599af651cb57a6df9b76/gemini-app-1.jpg)
+![image_alt](https://github.com/Ghauoor/google-gemini-clone-app/blob/899088bcbe8485ff0b5a599af651cb57a6df9b76/gemini-app-3.jpg)
+![image_alt](https://github.com/Ghauoor/google-gemini-clone-app/blob/899088bcbe8485ff0b5a599af651cb57a6df9b76/gemni-app.jpg)
+
